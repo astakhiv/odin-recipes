@@ -5,3 +5,5 @@ This project made me learn and acquire these skills:
 2. use html text, list, link and images tags
 3. writing clear commit messages
 4. making understandable project directory
+
+All the recipes are from: https://www.allrecipes.com/
